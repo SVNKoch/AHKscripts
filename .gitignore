@@ -1,0 +1,8 @@
+# folder for pure testing purpuses
+testing folder/
+
+# Windows thumbnail cache files
+Thumbs.db
+
+# Windows shortcuts
+*.lnk
